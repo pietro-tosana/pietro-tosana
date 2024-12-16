@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm an ISAE SUPAERO and Politecnico di Torino Student, passionate of aerospace, specifically in aerodynamics.
+Currently woring on hydrogen fuel cells for aviation and webdeveloping for UNESCO
 <!--
 **pietro-tosana/pietro-tosana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
